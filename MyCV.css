@@ -1,10 +1,13 @@
+
+/* subject text of cv */
 .subject {
-    background-color: lightskyblue;
+    background-color: #1abc9c;
     background-size: 30 %;
     color: white;
     margin: 20px;
     padding: 20px;
     border: 10 px blue
-    padding-top: 40px;
-    padding-left: 550px;
+    padding: 40px;
+    text-align: center;
+  
 }
